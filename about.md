@@ -10,4 +10,4 @@ with DevOps tools (Chef/Jenkins/Docker/etc) and making code delivery awesome.
 
 
 #### Contributor
-[Flyway](https://flywaydb.org/) Flyway, database migrations made easy.
+[Flyway](https://flywaydb.org/) database migrations made easy.
